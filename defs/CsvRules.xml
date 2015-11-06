@@ -304,6 +304,13 @@
     <Order>Ascent</Order>
   </Rule>
 
+  <Rule>
+    <Ident>EPOSCard</Ident>
+    <Name>エポスカード</Name>
+    <Format>Dummy,Date,Desc,Memo,Outgo,Dummy,Dummy</Format>
+    <Order>Ascent</Order>
+  </Rule>
+
   <!-- その他 -->
   <Rule>
     <Ident>NishiChugoku</Ident>
